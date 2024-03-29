@@ -4,7 +4,7 @@
 
 ## 🖥️ Projeto
 
-O projeto é uma 
+O projeto é um estudo de html e css. 
 
 ## 🚀 Tecnologia
 
